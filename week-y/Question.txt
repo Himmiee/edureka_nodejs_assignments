@@ -1,0 +1,11 @@
+MongoDB Queries
+Create a collection called "Movies" and perform the queries listed below:
+1. Add 5 movies to the collection every movie document should include the following properties:
+name, genre, rating, and language
+2. Write a  query that returns all the movies in the collection
+3. Write a query to find a movie name usinf findOne method
+4. Write a query to that returns highest rated movies
+5. Add a key "Super Hit" and "Super Duper Hit"
+6. Write a quey that returns the object and store it in a  variable first
+7. write a query that returns all the movies with "Super Hit and Super Duper Hit"
+Write a query that returns only movies that have achievements

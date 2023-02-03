@@ -1,0 +1,7 @@
+Create two APIs
+The first one should contain Employee Name along with Employee Id
+The second one should contain Project Name along with Project Id
+
+b.
+First API will take Employee ID as input and queries underlying JSON File to fetch Employee data(localhost:3000/employee/:id)
+second API will take Project ID as input and queries underlying JSON File to fetch Project detail(localhost:3000/project/:id)
